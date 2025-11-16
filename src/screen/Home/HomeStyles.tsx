@@ -5,5 +5,11 @@ export const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     flex: 1,
-  }
+    backgroundColor:'#333333',
+  },
+  buttonContainer: {
+    marginTop: 10,
+    width: '80%',
+     alignItems:'center',
+  },
 });
