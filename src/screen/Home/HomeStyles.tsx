@@ -8,8 +8,10 @@ export const styles = StyleSheet.create({
     backgroundColor:'#333333',
   },
   buttonContainer: {
+    flex:1,
     marginTop: 10,
     width: '80%',
      alignItems:'center',
+   
   },
 });
